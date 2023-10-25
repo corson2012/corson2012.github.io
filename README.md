@@ -1,3 +1,4 @@
+This is the code to push to github 
 ~ $ git clone https://github.com/corson2012/corson2012.github.io
 ~ $ cd corson2012.github.io
 ~ $ echo "Hello World" > index.html
