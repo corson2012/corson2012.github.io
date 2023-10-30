@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+button{
+    background-color: black;
+    border-color: aquamarine;
+    color:aquamarine;
+    text-align: center;
+    padding: 5px;
+    
+}
+
+hr{
+    color: white;
+}
